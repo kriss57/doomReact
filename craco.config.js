@@ -6,4 +6,5 @@ module.exports = {
             '@': path.resolve(__dirname, 'src'),
         },
     },
+
 };
